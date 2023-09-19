@@ -9,6 +9,7 @@ import { ArticleComponent } from './article/article.component';
 import {ArticleModel} from "./article/article.model";
 import {CommonModule} from "@angular/common";
 import { ArticleItemComponent } from './article-item/article-item.component';
+import {HttpClient, HttpClientModule} from "@angular/common/http";
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ArticleItemComponent } from './article-item/article-item.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    CommonModule
+    CommonModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

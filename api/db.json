@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "First JSONAPI article",
+      "description": "The description of the first jsonapi article"
+    },
+
+    {
+      "id": 2,
+      "title": "SECOND JSONAPI article",
+      "description": "The description of the SECOND jsonapi article"
+    },
+
+    {
+      "id": 3,
+      "title": "THIRD JSONAPI article",
+      "description": "The description of the THIRD jsonapi article"
+    },
+    {
+      "id": 4,
+      "title": "FORTH JSONAPI article",
+      "description": "The description of the Forth jsonapi article is Huge and because is the largest article"
+    }
+  ]}
