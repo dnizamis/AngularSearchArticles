@@ -1,9 +1,13 @@
+.search-bar{
+  padding: 5% 30%;
+}
+
 form {
   width: 100%;
   display: flex;
   align-items: center;
   height: 2.5rem;
-  border: 2px gray solid;
+  border: 2px #808080FF solid;
   border-radius: 30px;
   background-color: #F0F0F0;
 }

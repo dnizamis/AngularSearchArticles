@@ -2,24 +2,46 @@
   "articles": [
     {
       "id": 1,
-      "title": "First JSONAPI article",
-      "description": "The description of the first jsonapi article"
+      "title": "The first article!",
+      "description": "This article is the body of the the first article! "
     },
 
     {
       "id": 2,
-      "title": "SECOND JSONAPI article",
-      "description": "The description of the SECOND jsonapi article"
+      "title": "JSON:API paints my bikeshed!",
+      "description": "The shortest article. Ever."
     },
 
     {
       "id": 3,
-      "title": "THIRD JSONAPI article",
-      "description": "The description of the THIRD jsonapi article"
+      "title": "Just another title",
+      "description": "This project was implemented by Dimitris using a json api mock server."
     },
     {
       "id": 4,
-      "title": "FORTH JSONAPI article",
-      "description": "The description of the Forth jsonapi article is Huge and because is the largest article"
+      "title": "Dummy Article",
+      "description": "The description of the dummy article is way too long and this is because this article is the largest of this demo data!"
+    },
+    {
+      "id": 5,
+      "title": "The Fifth One",
+      "description": "The current project was implemented in html,css and typescript!"
+    },
+    {
+      "id": 6,
+      "title": "Isaac Newton",
+      "description": "Isaac Newton was an English mathematician, physicist, astronomer, alchemist, theologian, and author who was described in his time as a natural philosopher."
+    },
+    {
+      "id": 7,
+      "title": "Alan Turing",
+      "description": "Alan Turing as an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist."
+
+    },
+    {
+      "id": 8,
+      "title": "Albert Einstein",
+      "description": "He was a German-born theoretical physicist,widely held to be one of the greatest and most influential scientists of all time."
+
     }
   ]}

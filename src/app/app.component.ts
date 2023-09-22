@@ -8,5 +8,4 @@ import {ArticleService} from "./article.service";
 })
 export class AppComponent {
   title = 'ArticlesApp';
-
 }

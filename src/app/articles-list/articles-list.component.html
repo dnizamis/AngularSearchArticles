@@ -1,10 +1,13 @@
+<app-search-bar (searchEvent)="receiveSearchedKeyword($event)"></app-search-bar>
 <div class="results">
   <h2>Articles: </h2>
   <ul class="articles-ul">
-    <li *ngFor="let article of articleList">
+    <li *ngFor="let article of filteredArticleList">
       <span class="article-title">{{ article.title }}</span>
+      <hr>
       <span class="article-description">{{ article.description }}</span>
     </li>
   </ul>
 </div>
+
 

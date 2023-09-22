@@ -1,7 +1,9 @@
 <div class="search-bar">
-    <h1>ArtiSearch</h1>
-    <form>
-      <img class="search-icon" src="assets/search.svg">
-      <input type="text"  class="text-box"  placeholder="Search...">
-    </form>
+  <h1>ArtiSearch</h1>
+  <form>
+    <img class="search-icon" src="assets/search.svg">
+    <input type="text"  class="text-box"  placeholder="Search..."
+           #searchInput
+           (input)="onSearch(searchInput.value)">
+  </form>
 </div>
